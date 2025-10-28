@@ -33,7 +33,7 @@ Otherwise, it’s **invalid**
 ---
 
 ## 🖼️ Preview
-[View Live Project](https://washiy-codes.github.io/telephone-number-validator/)
+[View Live Project]( https://washiy-codes.github.io/Telephone-Number-Validator/)
 
 ---
 
