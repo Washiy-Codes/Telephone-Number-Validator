@@ -6,7 +6,7 @@ Perfect for ensuring proper input formats and improving user experience.
 ---
 ## 📸 App Screenshot
 
-![RPG Search App](https://opengraph.githubassets.com/124739121f8d6a88420a5598c386a5dd6a196e91db61d14b86a1bbee36fd5586/freeCodeCamp/freeCodeCamp/issues/59048)
+![RPG Search App](https://pbs.twimg.com/media/G59UeiQXwAAzLrh.jpg)
 
 ---
 
