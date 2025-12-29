@@ -6,7 +6,7 @@ Perfect for ensuring proper input formats and improving user experience.
 ---
 ## 📸 App Screenshot
 
-![RPG Search App](https://pbs.twimg.com/media/G59UeiQXwAAzLrh.jpg)
+![Telephone Number Validator](https://pbs.twimg.com/media/G59UeiQXwAAzLrh.jpg)
 
 ---
 
