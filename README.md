@@ -41,9 +41,3 @@ Otherwise, it’s **invalid**
 [View Live Project]( https://washiy-codes.github.io/Telephone-Number-Validator/)
 
 ---
-
-## 🧑‍💻 Author
-**Joseph**  
-> Just a passionate young developer trying to make things work out ✨  
-
-🌐 [GitHub Profile](https://github.com/Washiy-Codes)
