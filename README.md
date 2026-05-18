@@ -14,8 +14,6 @@ Perfect for ensuring proper input formats and improving user experience.
 -  Validates standard U.S. phone number formats  
 -  Powered by Regular Expressions (Regex)  
 -  Responsive and minimal design  
--  Simple, beginner-friendly code  
-
 ---
 
 ##  How It Works
